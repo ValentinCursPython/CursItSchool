@@ -1,0 +1,5 @@
+tkcalendar
+matplotlib
+
+#trebuie instalate
+#tkinter si sqlite3 sunt incluse cu Python
