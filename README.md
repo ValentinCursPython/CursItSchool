@@ -49,9 +49,13 @@ Promote regular users to admin
 ⚙️ Technologies Used
 
 Python 3.10+
+
 Tkinter – GUI framework
+
 SQLite3 – database
+
 Matplotlib – data visualization
+
 tkcalendar – date picker widgets
 
 -----------
@@ -60,11 +64,17 @@ tkcalendar – date picker widgets
 
 expense_tracker/
 │
+
 ├── app.py               # Main application (UI + business logic)
+
 ├── database.py          # Database initialization and connection
+
 ├── models.py            # Database models and query logic
+
 ├── utils.py             # Charts, exports, calculations, helpers
+
 ├── requirements.txt     # Dependencies
+
 └── README.md            # Project documentation
 
 ------------
