@@ -143,7 +143,7 @@ Sharing one dashboard between 2 or more users
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/ValentinCursPython/expense-tracker.git
    
    cd expense-tracker
 
