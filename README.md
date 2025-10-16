@@ -136,3 +136,25 @@ Multi-currency support
 Monthly analytics summary
 
 Sharing one dashboard between 2 or more users 
+
+------------
+
+🚀 How to Run the Project
+
+1. Clone the repository:
+
+   git clone https://github.com/yourusername/expense-tracker.git
+   
+   cd expense-tracker
+
+2. Install dependencies:
+
+   pip install -r requirements.txt
+
+3. Run the app:
+
+   python app.py
+
+
+
+
